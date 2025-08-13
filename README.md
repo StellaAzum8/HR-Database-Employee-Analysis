@@ -1,16 +1,4 @@
-I see what you’re going for — that write-up is already structured like a project case study for a GitHub repository.
-If we adapt your YouTube analysis example to your SQL HR database project, we can give it the same professional “portfolio-ready” style.
 
-Here’s how your HR SQL repository could look following that format:
-
-⸻
-
-Repository Name
-
-HR-Database-Employee-Analysis
-(or HR-Database-SQL-Queries-and-Insights)
-
-⸻
 
 README.md
 
