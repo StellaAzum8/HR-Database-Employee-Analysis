@@ -120,6 +120,3 @@ This SQL analysis provides deep insights into employee demographics, salaries, d
 
 ---
 
-If you want, I can prepare **all the `.sql` files + README.md + schema diagram** for you so you can just upload them straight to GitHub, the same way your YouTube example is already GitHub-ready.  
-
-Do you want me to make that full ready-to-upload package for you?
